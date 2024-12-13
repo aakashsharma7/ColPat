@@ -1,0 +1,38 @@
+{
+  "name": "colpat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@bobthered/tailwindcss-palette-generator": "^3.1.1",
+    "@pjsalita/react-mouse-trail": "^1.0.8",
+    "@privjs/gradients": "^1.0.11",
+    "animatedtxt": "^1.3.0",
+    "bootstrap-icons": "^1.10.3",
+    "chatgpt": "^5.1.3",
+    "color-namer": "^1.4.0",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "get-image-colors": "^4.0.1",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "next": "13.2.4",
+    "nice-color-palettes": "^3.0.0",
+    "prism-react-renderer": "^1.3.5",
+    "react": "18.2.0",
+    "react-bootstrap-icons": "^1.10.2",
+    "react-dom": "18.2.0",
+    "react-toastify": "^9.1.2",
+    "shade-generator": "^1.2.7",
+    "tinycolor2": "^1.6.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}
