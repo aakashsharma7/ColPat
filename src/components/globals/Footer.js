@@ -68,7 +68,7 @@ export default function Footer() {
       </div>
       <div className="w-full flex justify-center items-center text-green-200">
         <a
-          href="https://villgax-in.netlify.app/"
+          href="https://porto-io.vercel.app/"
           className="opacity-75 hover:opacity-95 mt-2"
           target="_blank"
           rel="noopener noreferrer"
